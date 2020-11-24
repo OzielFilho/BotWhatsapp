@@ -11,7 +11,7 @@ chrome.get('https://web.whatsapp.com/')
 time.sleep(30)
 
 #groups and contacts
-groups = ['RELATORIO','Mamacos solteiros e Oziel']
+groups = ['RELATORIO'] #groups 
 
 
 #message
